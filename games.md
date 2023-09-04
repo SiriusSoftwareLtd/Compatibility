@@ -10,7 +10,9 @@ Here's a list of all supported games for Sirius.
 
 • [Breaking Point](https://www.roblox.com/games/648362523/Breaking-Point) - Last updated: Aug. 29, 2023
 
-• [Phantom Forces](https://www.roblox.com/games/292439477) **(Pro Exclusive)** - Last updated: Aug. 8, 2023
+• [Phantom Forces](https://www.roblox.com/games/292439477) **(Pro Exclusive)** - Last updated: Sep. 1, 2023
+
+• [Strucid](https://www.roblox.com/games/2377868063/Strucid) - Last updated: Sep. 4, 2023
 
 ## Patched
 
@@ -18,7 +20,7 @@ Here's a list of all supported games for Sirius.
 
 ## Releasing Soon
 
-• [Strucid](https://www.roblox.com/games/2377868063/Strucid)
+
 
 • [Project Lazarus](https://www.roblox.com/games/443406476/Project-Lazarus-ZOMBIES)
 
