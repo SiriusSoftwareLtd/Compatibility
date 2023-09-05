@@ -27,5 +27,3 @@ Here's a list of all supported games for Sirius.
 • [BHRM5](https://www.roblox.com/games/2916899287/Blackhawk-Rescue-Mission-5)
 
 • [Doors](https://www.roblox.com/games/6516141723) **(Pro and Essential Only)**
-
-• [Arsenal](https://www.roblox.com/games/286090429) **(Pro Exclusive)** 
