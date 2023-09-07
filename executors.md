@@ -9,18 +9,20 @@ Please do your own research before using anything here.
 
 • [KRNL](https://krnl.place)
 
+• [Fluxus](https://fluxteam.net)
 
-• [Fluxus](https://fluxteam.net) (Fluxus is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
+• [Valyse](https://valyse.net)
 
-• [Valyse](https://valyse.net) (Valyse is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
+• [Comet](https://cometrbx.xyz/)
 
-• [Comet](https://cometrbx.xyz/) (Comet is recommended post Hyperion's release. It works on UWP (Microsoft Store Version).)
+• [Electron](https://ryos.lol/)
 
 ## Paid
 
 • [Synapse X](https://x.synapse.to)
 
+• Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m)
 
-• Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m)/~~[iOS](https://script-ware.com/ios)~~
+• [SirHurt](https://sirhurt.net)
 
-• [Sirhurt](https://sirhurt.net)
+• [Hydrogen Mac](https://hydrogen.sh/)
