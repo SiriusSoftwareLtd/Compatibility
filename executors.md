@@ -23,6 +23,4 @@ Please do your own research before using anything here.
 
 • Script-Ware [Windows](https://script-ware.com/w)/[Mac](https://script-ware.com/m)
 
-• [SirHurt](https://sirhurt.net)
-
 • [Hydrogen Mac](https://hydrogen.sh/)
