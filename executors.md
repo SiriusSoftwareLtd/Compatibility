@@ -13,8 +13,6 @@ Please do your own research before using anything here.
 
 • [Valyse](https://valyse.net)
 
-• [Comet](https://cometrbx.xyz/)
-
 • [Electron](https://ryos.lol/)
 
 ## Paid
